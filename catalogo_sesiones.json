@@ -1,0 +1,23 @@
+[
+  {
+    "id": "s1",
+    "titulo": "Introducci\u00f3n a Azure AI",
+    "ponente": "Mar\u00eda Gonz\u00e1lez",
+    "hora": "10:00 - 10:45",
+    "tema": "Inteligencia Artificial"
+  },
+  {
+    "id": "s2",
+    "titulo": "Copilot en el entorno empresarial",
+    "ponente": "Juan P\u00e9rez",
+    "hora": "11:00 - 11:45",
+    "tema": "Productividad"
+  },
+  {
+    "id": "s3",
+    "titulo": "Modelos de lenguaje y \u00e9tica",
+    "ponente": "Laura Mart\u00ednez",
+    "hora": "12:00 - 12:45",
+    "tema": "IA Responsable"
+  }
+]
